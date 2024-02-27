@@ -1,4 +1,4 @@
-module openapi
+module github.com/himanshusahu0001/openapi
 
 go 1.20
 
