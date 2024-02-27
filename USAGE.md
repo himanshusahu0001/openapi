@@ -6,8 +6,8 @@ import (
 	"context"
 	"log"
 	"openapi"
-	"github.com/himanshusahu0001/openapimodels/components"
-	"github.com/himanshusahu0001/openapimodels/operations"
+	"github.com/himanshusahu0001/openapi/models/components"
+	"github.com/himanshusahu0001/openapi/models/operations"
 )
 
 func main() {

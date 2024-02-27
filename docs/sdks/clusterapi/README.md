@@ -15,10 +15,10 @@ List Clusters
 package main
 
 import(
-	"github.com/himanshusahu0001/openapimodels/components"
+	"github.com/himanshusahu0001/openapi/models/components"
 	"openapi"
 	"context"
-	"github.com/himanshusahu0001/openapimodels/operations"
+	"github.com/himanshusahu0001/openapi/models/operations"
 	"log"
 )
 

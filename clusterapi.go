@@ -9,11 +9,11 @@ import (
 	"io"
 	"net/http"
 	"net/url"
-	"github.com/himanshusahu0001/openapiinternal/hooks"
-	"github.com/himanshusahu0001/openapiinternal/utils"
-	"github.com/himanshusahu0001/openapimodels/components"
-	"github.com/himanshusahu0001/openapimodels/operations"
-	"github.com/himanshusahu0001/openapimodels/sdkerrors"
+	"github.com/himanshusahu0001/openapi/internal/hooks"
+	"github.com/himanshusahu0001/openapi/internal/utils"
+	"github.com/himanshusahu0001/openapi/models/components"
+	"github.com/himanshusahu0001/openapi/models/operations"
+	"github.com/himanshusahu0001/openapi/models/sdkerrors"
 )
 
 type ClusterAPI struct {

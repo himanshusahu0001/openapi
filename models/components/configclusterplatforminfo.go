@@ -3,7 +3,7 @@
 package components
 
 import (
-	"github.com/himanshusahu0001/openapiinternal/utils"
+	"github.com/himanshusahu0001/openapi/internal/utils"
 )
 
 type ConfigClusterPlatformInfo struct {
