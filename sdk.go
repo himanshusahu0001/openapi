@@ -6,9 +6,9 @@ import (
 	"context"
 	"fmt"
 	"net/http"
-	"openapi/internal/hooks"
-	"openapi/internal/utils"
-	"openapi/models/components"
+	"github.com/himanshusahu0001/openapiinternal/hooks"
+	"github.com/himanshusahu0001/openapiinternal/utils"
+	"github.com/himanshusahu0001/openapimodels/components"
 	"time"
 )
 

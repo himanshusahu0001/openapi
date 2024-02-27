@@ -36,8 +36,8 @@ import (
 	"context"
 	"log"
 	"openapi"
-	"openapi/models/components"
-	"openapi/models/operations"
+	"github.com/himanshusahu0001/openapimodels/components"
+	"github.com/himanshusahu0001/openapimodels/operations"
 )
 
 func main() {
@@ -86,9 +86,9 @@ import (
 	"errors"
 	"log"
 	"openapi"
-	"openapi/models/components"
-	"openapi/models/operations"
-	"openapi/models/sdkerrors"
+	"github.com/himanshusahu0001/openapimodels/components"
+	"github.com/himanshusahu0001/openapimodels/operations"
+	"github.com/himanshusahu0001/openapimodels/sdkerrors"
 )
 
 func main() {
@@ -131,8 +131,8 @@ import (
 	"context"
 	"log"
 	"openapi"
-	"openapi/models/components"
-	"openapi/models/operations"
+	"github.com/himanshusahu0001/openapimodels/components"
+	"github.com/himanshusahu0001/openapimodels/operations"
 )
 
 func main() {
@@ -165,8 +165,8 @@ import (
 	"context"
 	"log"
 	"openapi"
-	"openapi/models/components"
-	"openapi/models/operations"
+	"github.com/himanshusahu0001/openapimodels/components"
+	"github.com/himanshusahu0001/openapimodels/operations"
 )
 
 func main() {
@@ -237,7 +237,7 @@ import (
 	"context"
 	"log"
 	"openapi"
-	"openapi/models/operations"
+	"github.com/himanshusahu0001/openapimodels/operations"
 )
 
 func main() {

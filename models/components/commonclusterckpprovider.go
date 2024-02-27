@@ -3,7 +3,7 @@
 package components
 
 import (
-	"openapi/internal/utils"
+	"github.com/himanshusahu0001/openapiinternal/utils"
 )
 
 type CommonClusterCKPProvider struct {

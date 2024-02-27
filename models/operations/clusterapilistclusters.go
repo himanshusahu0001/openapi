@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"openapi/internal/utils"
-	"openapi/models/components"
+	"github.com/himanshusahu0001/openapiinternal/utils"
+	"github.com/himanshusahu0001/openapimodels/components"
 )
 
 // State - filter list based on state of cluster.
