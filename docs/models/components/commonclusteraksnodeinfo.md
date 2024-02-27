@@ -1,0 +1,9 @@
+# CommonClusterAKSNodeInfo
+
+
+## Fields
+
+| Field                                                                                                         | Type                                                                                                          | Required                                                                                                      | Description                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| `SysNodeInfo`                                                                                                 | [*components.CommonClusterAKSSysNodeGroupInfo](../../models/components/commonclusterakssysnodegroupinfo.md)   | :heavy_minus_sign:                                                                                            | N/A                                                                                                           |
+| `UserNodeInfo`                                                                                                | [*components.CommonClusterAKSUserNodeGroupInfo](../../models/components/commonclusteraksusernodegroupinfo.md) | :heavy_minus_sign:                                                                                            | N/A                                                                                                           |

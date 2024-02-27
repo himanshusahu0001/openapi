@@ -1,0 +1,10 @@
+# CommonClusterCKPProvider
+
+
+## Fields
+
+| Field                                                                                               | Type                                                                                                | Required                                                                                            | Description                                                                                         |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `Provider`                                                                                          | [*components.CommonClusterCKPProviderType](../../models/components/commonclusterckpprovidertype.md) | :heavy_minus_sign:                                                                                  | N/A                                                                                                 |
+| `Byoh`                                                                                              | [*components.CommonByohProvider](../../models/components/commonbyohprovider.md)                     | :heavy_minus_sign:                                                                                  | N/A                                                                                                 |
+| `Aws`                                                                                               | [*components.CommonAwsClusterProvider](../../models/components/commonawsclusterprovider.md)         | :heavy_minus_sign:                                                                                  | N/A                                                                                                 |
